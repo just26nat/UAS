@@ -147,19 +147,29 @@ Melihat tren manufaktur berdasarkan tahun pembuatan.Setting Node: GroupBy (Year)
 ## Hasil Visualisasi
 
 # 1. Cluster
-<img width="1201" height="214" alt="Stacked Area Chart (data analisa hasil penjualan per tahun)" src="https://github.com/user-attachments/assets/7de5cdf4-f5ce-4735-82c4-9b7effcf278e" />
-<img width="1201" height="214" alt="Bar Chart (perbandingan penjualan)" src="https://github.com/user-attachments/assets/19295562-4a28-4188-b5f8-3e3f3084e1a3" />
-<img width="1201" height="214" alt="Pie Chart (perbandingan penjualan)" src="https://github.com/user-attachments/assets/c500809d-f6d6-4edf-aa31-d7c141645b7a" />
-<img width="1535" height="216" alt="Score (prediksi data manufaktur)" src="https://github.com/user-attachments/assets/1616d1e3-9583-4dc6-8ff9-d3ad497c4b00" />
-<img width="841" height="356" alt="Histogram (produksi mobil)" src="https://github.com/user-attachments/assets/a03980cb-a202-45d5-876b-b263a5e26ea8" />
-<img width="841" height="356" alt="Heatmap (korelasi linear)" src="https://github.com/user-attachments/assets/bb3e89a0-1b43-4d79-a81c-1397451a1320" />
-<img width="841" height="356" alt="Scatter Plot (statistik)" src="https://github.com/user-attachments/assets/25ede60a-3ed8-48d3-813a-94770def0f8f" />
-<img width="841" height="356" alt="Box Plot (statistik2)" src="https://github.com/user-attachments/assets/1d56540e-25b8-4523-bce9-cc8ad182352a" />
-<img width="841" height="356" alt="Box Plot (statistik)" src="https://github.com/user-attachments/assets/b27d8219-fd25-45fa-b046-84cef1029b3d" />
+<img width="841" height="212" alt="Scatter Plot (CLuster)" src="https://github.com/user-attachments/assets/78940ce4-6976-4be9-a260-90dc7bf06a86" />
+
+# 2. Prediksi perbandingan dengan Harga
 <img width="841" height="356" alt="Scatter Plot (prediksi2)" src="https://github.com/user-attachments/assets/8d1f6449-c85f-4351-abe0-9dcd1dfd81d4" />
 <img width="841" height="356" alt="Scatter Plot (prediksi)" src="https://github.com/user-attachments/assets/f2acab8f-b60e-40b8-be28-65e50e230bbb" />
 <img width="678" height="366" alt="Tabel Skor (Prediksi)" src="https://github.com/user-attachments/assets/4f5ec6ca-d9c0-44f8-a426-f2a456e76988" />
-<img width="841" height="212" alt="Scatter Plot (CLuster)" src="https://github.com/user-attachments/assets/78940ce4-6976-4be9-a260-90dc7bf06a86" />
+
+# 3. Perbandingan Statistik
+<img width="841" height="356" alt="Scatter Plot (statistik)" src="https://github.com/user-attachments/assets/25ede60a-3ed8-48d3-813a-94770def0f8f" />
+<img width="841" height="356" alt="Box Plot (statistik2)" src="https://github.com/user-attachments/assets/1d56540e-25b8-4523-bce9-cc8ad182352a" />
+<img width="841" height="356" alt="Box Plot (statistik)" src="https://github.com/user-attachments/assets/b27d8219-fd25-45fa-b046-84cef1029b3d" />
+
+# 4. Perbandingan Penjualan
+<img width="1201" height="214" alt="Bar Chart (perbandingan penjualan)" src="https://github.com/user-attachments/assets/19295562-4a28-4188-b5f8-3e3f3084e1a3" />
+<img width="1201" height="214" alt="Pie Chart (perbandingan penjualan)" src="https://github.com/user-attachments/assets/c500809d-f6d6-4edf-aa31-d7c141645b7a" />
+<img width="1201" height="214" alt="Stacked Area Chart (data analisa hasil penjualan per tahun)" src="https://github.com/user-attachments/assets/7de5cdf4-f5ce-4735-82c4-9b7effcf278e" />
+
+# 5. Data manufaktur dan Gransi
+<img width="1535" height="216" alt="Score (prediksi data manufaktur)" src="https://github.com/user-attachments/assets/1616d1e3-9583-4dc6-8ff9-d3ad497c4b00" />
+<img width="841" height="356" alt="Histogram (produksi mobil)" src="https://github.com/user-attachments/assets/a03980cb-a202-45d5-876b-b263a5e26ea8" />
+<img width="841" height="356" alt="Heatmap (korelasi linear)" src="https://github.com/user-attachments/assets/bb3e89a0-1b43-4d79-a81c-1397451a1320" />
+
+# 6. Fasilitas 
 <img width="998" height="701" alt="Sunburst Chart (data fasilitas mobil 3)" src="https://github.com/user-attachments/assets/94daf9c0-ab22-47fb-aeca-c7c7a6a7e5c7" />
 <img width="998" height="701" alt="Sunburst Chart (data fasilitas mobil 2)" src="https://github.com/user-attachments/assets/37899289-2517-43e6-bf5b-9d9a6159df87" />
 <img width="998" height="701" alt="Sunburst Chart (data fasilitas mobil 1)" src="https://github.com/user-attachments/assets/a52e915d-eb43-4dd6-b6e6-4650dc31f0a2" />
